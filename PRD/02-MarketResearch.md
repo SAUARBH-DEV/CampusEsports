@@ -45,3 +45,65 @@ Growth drivers include:
 - Rising interest in competitive gaming
 
 The Indian esports ecosystem continues to expand through national tournaments, university competitions, and professional organizations.
+
+---
+
+# Target Market
+
+CampusEsports primarily focuses on Indian colleges and universities where students actively participate in gaming and esports competitions.
+
+## Primary Users
+
+- College students
+- Team captains
+- Casual gamers
+- Competitive esports players
+
+## Secondary Users
+
+- Tournament organizers
+- College clubs
+- Student councils
+- Event coordinators
+
+## Future Users
+
+- Universities
+- Gaming communities
+- Sponsors
+- Esports organizations
+
+---
+
+# Competitor Analysis
+
+Current tournament management platforms include:
+
+| Platform | Strength | Weakness |
+|----------|----------|----------|
+| Challonge | Easy brackets | No college ecosystem |
+| Battlefy | Large tournaments | Complex for beginners |
+| Toornament | Professional tools | Paid features |
+| Discord | Community management | No tournament automation |
+| Google Forms | Free | Completely manual |
+| WhatsApp | Easy communication | Difficult to manage tournaments |
+
+CampusEsports combines tournament management, registrations, brackets, notifications, team management, and college communities into a single platform.
+
+---
+
+# Market Gap
+
+Current solutions fail to address the specific needs of Indian college esports.
+
+Problems include:
+
+- Manual registrations
+- No centralized platform
+- Poor communication
+- No player profiles
+- Difficult bracket management
+- Lack of analytics
+- No college-specific ecosystem
+
+CampusEsports aims to solve all these challenges through one unified platform.
