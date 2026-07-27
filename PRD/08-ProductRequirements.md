@@ -344,3 +344,305 @@ A feature is complete when:
 - Students join colleges.
 - College data displays correctly.
 
+---
+
+# Epic 4 — Tournament Management
+
+## Description
+
+The Tournament Management module allows organizers to create, manage, and monitor esports tournaments from a centralized dashboard.
+
+### FR-021
+
+Organizer creates tournament.
+
+Priority: Must Have
+
+---
+
+### FR-022
+
+Organizer edits tournament.
+
+Priority: Must Have
+
+---
+
+### FR-023
+
+Organizer deletes tournament.
+
+Priority: Must Have
+
+---
+
+### FR-024
+
+Tournament has registration deadline.
+
+Priority: Must Have
+
+---
+
+### FR-025
+
+Tournament supports multiple games.
+
+Examples:
+
+- BGMI
+- Valorant
+- Free Fire MAX
+- Chess
+- FIFA
+- CS2
+
+Priority: Must Have
+
+---
+
+### FR-026
+
+Organizer defines rules.
+
+Priority: Must Have
+
+---
+
+### FR-027
+
+Tournament banner upload.
+
+Priority: Should Have
+
+---
+
+### FR-028
+
+Maximum team limit.
+
+Priority: Must Have
+
+---
+
+### FR-029
+
+Tournament visibility.
+
+Options
+
+- Public
+- Private
+- College Only
+
+Priority: Must Have
+
+---
+
+# Epic 5 — Team Management
+
+## Description
+
+Students create and manage esports teams.
+
+### FR-030
+
+Create team.
+
+Priority: Must Have
+
+---
+
+### FR-031
+
+Invite teammates.
+
+Priority: Must Have
+
+---
+
+### FR-032
+
+Accept invitation.
+
+Priority: Must Have
+
+---
+
+### FR-033
+
+Leave team.
+
+Priority: Must Have
+
+---
+
+### FR-034
+
+Transfer captain.
+
+Priority: Should Have
+
+---
+
+### FR-035
+
+Team logo upload.
+
+Priority: Could Have
+
+---
+
+### FR-036
+
+Team statistics.
+
+Priority: Should Have
+
+---
+
+### FR-037
+
+Team achievements.
+
+Priority: Could Have
+
+---
+
+# Epic 6 — Match Management
+
+## Description
+
+Manage tournament matches.
+
+### FR-038
+
+Automatic match scheduling.
+
+Priority: Must Have
+
+---
+
+### FR-039
+
+Manual schedule editing.
+
+Priority: Should Have
+
+---
+
+### FR-040
+
+Match reminders.
+
+Priority: Must Have
+
+---
+
+### FR-041
+
+Result submission.
+
+Priority: Must Have
+
+---
+
+### FR-042
+
+Dispute reporting.
+
+Priority: Should Have
+
+---
+
+### FR-043
+
+Winner declaration.
+
+Priority: Must Have
+
+---
+
+# Epic 7 — Bracket System
+
+## Description
+
+Generate tournament brackets automatically.
+
+### FR-044
+
+Single Elimination.
+
+Priority: Must Have
+
+---
+
+### FR-045
+
+Double Elimination.
+
+Priority: Should Have
+
+---
+
+### FR-046
+
+Round Robin.
+
+Priority: Future
+
+---
+
+### FR-047
+
+Automatic bracket generation.
+
+Priority: Must Have
+
+---
+
+### FR-048
+
+Live bracket updates.
+
+Priority: Must Have
+
+---
+
+### FR-049
+
+Bracket sharing.
+
+Priority: Should Have
+
+---
+
+# Acceptance Criteria
+
+Tournament Module
+
+A tournament is complete when:
+
+- Organizer creates it.
+- Registration opens.
+- Registration closes automatically.
+- Teams join successfully.
+- Bracket generates correctly.
+
+Team Module
+
+A team is complete when:
+
+- Captain creates team.
+- Players join.
+- Team enters tournament.
+
+Bracket Module
+
+Complete when:
+
+- Winners automatically advance.
+- Bracket updates correctly.
+- Final winner is displayed.
+
+
