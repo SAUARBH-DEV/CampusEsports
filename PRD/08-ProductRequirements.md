@@ -645,4 +645,320 @@ Complete when:
 - Bracket updates correctly.
 - Final winner is displayed.
 
+---
 
+# Epic 8 — Leaderboards & Rankings
+
+## Description
+
+The platform maintains rankings for players, teams, and colleges based on tournament performance.
+
+### FR-050
+
+Display player leaderboard.
+
+Priority: Must Have
+
+---
+
+### FR-051
+
+Display team leaderboard.
+
+Priority: Must Have
+
+---
+
+### FR-052
+
+Display college leaderboard.
+
+Priority: Should Have
+
+---
+
+### FR-053
+
+Tournament MVP recognition.
+
+Priority: Could Have
+
+---
+
+### FR-054
+
+Player achievement badges.
+
+Priority: Could Have
+
+---
+
+### FR-055
+
+Tournament statistics.
+
+Priority: Must Have
+
+---
+
+# Epic 9 — Notifications
+
+## Description
+
+Notify users about important platform activities.
+
+### FR-056
+
+Tournament reminders.
+
+Priority: Must Have
+
+---
+
+### FR-057
+
+Match reminders.
+
+Priority: Must Have
+
+---
+
+### FR-058
+
+Invitation notifications.
+
+Priority: Must Have
+
+---
+
+### FR-059
+
+Result notifications.
+
+Priority: Must Have
+
+---
+
+### FR-060
+
+Announcement notifications.
+
+Priority: Should Have
+
+---
+
+### FR-061
+
+Email notifications.
+
+Priority: Should Have
+
+---
+
+# Epic 10 — Admin Dashboard
+
+## Description
+
+Platform administrators manage users, tournaments, and reports.
+
+### FR-062
+
+Manage users.
+
+Priority: Must Have
+
+---
+
+### FR-063
+
+Manage tournaments.
+
+Priority: Must Have
+
+---
+
+### FR-064
+
+Approve organizers.
+
+Priority: Should Have
+
+---
+
+### FR-065
+
+Suspend accounts.
+
+Priority: Must Have
+
+---
+
+### FR-066
+
+Platform analytics.
+
+Priority: Should Have
+
+---
+
+### FR-067
+
+Generate reports.
+
+Priority: Should Have
+
+---
+
+# Epic 11 — Search & Discovery
+
+## Description
+
+Help users quickly find tournaments, teams, colleges, and players.
+
+### FR-068
+
+Search tournaments.
+
+Priority: Must Have
+
+---
+
+### FR-069
+
+Search teams.
+
+Priority: Must Have
+
+---
+
+### FR-070
+
+Search players.
+
+Priority: Should Have
+
+---
+
+### FR-071
+
+Search colleges.
+
+Priority: Should Have
+
+---
+
+### FR-072
+
+Advanced filters.
+
+Priority: Should Have
+
+---
+
+# Epic 12 — Analytics
+
+## Description
+
+Provide useful statistics for organizers and administrators.
+
+### FR-073
+
+Tournament participation analytics.
+
+Priority: Must Have
+
+---
+
+### FR-074
+
+Registration analytics.
+
+Priority: Should Have
+
+---
+
+### FR-075
+
+College participation statistics.
+
+Priority: Should Have
+
+---
+
+### FR-076
+
+Player growth statistics.
+
+Priority: Future
+
+---
+
+# Non-Functional Requirements
+
+## Performance
+
+- Page loads in under 3 seconds.
+- Dashboard responds quickly under normal usage.
+
+---
+
+## Security
+
+- Encrypted passwords.
+- Role-based authorization.
+- Secure authentication.
+- Protection against common web attacks.
+
+---
+
+## Scalability
+
+- Support growth from one college to many colleges.
+- Modular architecture for future expansion.
+
+---
+
+## Reliability
+
+- High uptime.
+- Regular backups.
+
+---
+
+## Usability
+
+- Mobile-first responsive design.
+- Accessible navigation.
+- Consistent user interface.
+
+---
+
+# MVP Features
+
+The first release includes:
+
+- Student Login
+- Student Registration
+- Organizer Dashboard
+- Tournament Creation
+- Team Creation
+- Team Invitations
+- Registration Management
+- Live Brackets
+- Notifications
+- Leaderboards
+- Player Profiles
+
+---
+
+# Out of Scope (Version 1)
+
+The following features are planned for later versions:
+
+- Live Streaming
+- Merchandise Store
+- Sponsor Marketplace
+- AI Match Scheduling
+- Mobile Apps
+- Scholarship Portal
+- Internship Portal
