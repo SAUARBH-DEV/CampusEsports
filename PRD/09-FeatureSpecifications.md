@@ -264,3 +264,287 @@ Updated bracket.
 
 Bracket generated.
 
+---
+
+# Feature 6 — Player Profile
+
+## Description
+
+Every student has a personalized gaming profile that showcases their identity, tournament history, achievements, and statistics.
+
+---
+
+## Users
+
+- Student
+- Organizer
+
+---
+
+## Inputs
+
+- Name
+- Profile Photo
+- Bio
+- College
+- Preferred Games
+- Social Links
+
+---
+
+## Outputs
+
+Professional player profile.
+
+---
+
+## Features
+
+- Edit profile
+- Upload avatar
+- View achievements
+- Tournament history
+- Match history
+- Win/Loss ratio
+- Favorite games
+- Current ranking
+
+---
+
+## Validation
+
+Profile photo must be an image.
+
+Bio maximum 300 characters.
+
+---
+
+## Business Rules
+
+One profile per account.
+
+Tournament history cannot be edited manually.
+
+---
+
+## Success
+
+Profile updated successfully.
+
+---
+
+# Feature 7 — Notifications
+
+## Description
+
+Users receive important updates about tournaments and matches.
+
+---
+
+## Notification Types
+
+- Tournament Registration
+- Match Reminder
+- Team Invitation
+- Match Result
+- Tournament Announcement
+- Organizer Announcement
+
+---
+
+## Delivery
+
+- In-App
+- Email
+
+---
+
+## Features
+
+- Mark as Read
+- Delete Notification
+- Notification History
+
+---
+
+## Success
+
+Notification delivered.
+
+---
+
+# Feature 8 — Search
+
+## Description
+
+Users can search for tournaments, colleges, teams, and players.
+
+---
+
+## Search Categories
+
+- Players
+- Teams
+- Colleges
+- Tournaments
+
+---
+
+## Filters
+
+- Game
+- College
+- Tournament Status
+- Date
+- Ranking
+
+---
+
+## Output
+
+Relevant search results.
+
+---
+
+## Business Rules
+
+Search should support partial matching.
+
+Recent searches stored locally.
+
+---
+
+# Feature 9 — Leaderboards
+
+## Description
+
+Display rankings for players, teams, and colleges.
+
+---
+
+## Categories
+
+- Overall
+- Game-wise
+- Monthly
+- Annual
+
+---
+
+## Metrics
+
+- Wins
+- Losses
+- Points
+- Win Rate
+- Tournament Titles
+
+---
+
+## Features
+
+- Filter leaderboard
+- Search leaderboard
+- Top Players
+- Top Teams
+- Top Colleges
+
+---
+
+# Feature 10 — Admin Dashboard
+
+## Description
+
+Administrators manage the complete Kurukshetra platform.
+
+---
+
+## Features
+
+- User Management
+- Tournament Management
+- College Management
+- Reports
+- Analytics
+- Moderation
+
+---
+
+## Permissions
+
+Create
+
+Read
+
+Update
+
+Delete
+
+Suspend
+
+Verify
+
+---
+
+## Business Rules
+
+Only Super Admins have full access.
+
+---
+
+# Feature 11 — Organizer Dashboard
+
+## Description
+
+Organizers manage tournaments from a centralized dashboard.
+
+---
+
+## Features
+
+- Dashboard Overview
+- Tournament Statistics
+- Team Management
+- Match Scheduling
+- Registration Approval
+- Announcement Center
+
+---
+
+## Outputs
+
+Tournament analytics.
+
+Participation statistics.
+
+Upcoming matches.
+
+---
+
+# Feature 12 — College Dashboard
+
+## Description
+
+Each college has its own dashboard to monitor esports activities.
+
+---
+
+## Features
+
+- Registered Students
+- Active Teams
+- Tournament Participation
+- Rankings
+- Analytics
+- Event History
+
+---
+
+## Future Features
+
+- Official College Page
+
+- Campus Clubs
+
+- Campus Events
+
