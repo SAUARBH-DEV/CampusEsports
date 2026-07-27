@@ -548,3 +548,284 @@ Each college has its own dashboard to monitor esports activities.
 
 - Campus Events
 
+---
+
+# Feature 13 — Match Management
+
+## Description
+
+Manage every match within a tournament from scheduling to final result declaration.
+
+---
+
+## Users
+
+- Organizer
+- Team Captain
+- Admin
+
+---
+
+## Features
+
+- Schedule Match
+- Edit Match
+- Start Match
+- Submit Result
+- Report Dispute
+- Declare Winner
+
+---
+
+## Inputs
+
+- Match Date
+- Match Time
+- Teams
+- Tournament
+- Score
+
+---
+
+## Outputs
+
+Updated match status.
+
+---
+
+## Match Status
+
+- Upcoming
+- Live
+- Completed
+- Cancelled
+
+---
+
+## Validation
+
+Match cannot start before schedule.
+
+Only organizer submits official result.
+
+---
+
+## Success
+
+Match updated successfully.
+
+---
+
+# Feature 14 — Analytics
+
+## Description
+
+Provide insights for players, organizers, colleges, and administrators.
+
+---
+
+## Metrics
+
+- Total Players
+- Active Players
+- Active Tournaments
+- Matches Played
+- Registrations
+- Team Count
+
+---
+
+## Charts
+
+- Monthly Growth
+- Player Growth
+- Tournament Growth
+- College Participation
+
+---
+
+## Export
+
+PDF
+
+CSV
+
+Excel
+
+---
+
+## Business Rules
+
+Analytics refresh every hour.
+
+---
+
+# Feature 15 — Chat System
+
+## Description
+
+Enable communication between players, teams, and organizers.
+
+---
+
+## Chat Types
+
+- Team Chat
+- Tournament Chat
+- Direct Message
+
+---
+
+## Features
+
+- Send Message
+- Edit Message
+- Delete Message
+- Emoji Support
+- Image Sharing
+
+---
+
+## Future
+
+Voice Chat
+
+Video Chat
+
+---
+
+# Feature 16 — Achievements
+
+## Description
+
+Reward users for participation and performance.
+
+---
+
+## Achievement Types
+
+- First Tournament
+- First Victory
+- Champion
+- MVP
+- Top Scorer
+- Organizer of the Month
+
+---
+
+## Rewards
+
+- Badges
+- XP Points
+- Profile Showcase
+
+---
+
+# Feature 17 — Reporting System
+
+## Description
+
+Allow users to report inappropriate behavior or tournament issues.
+
+---
+
+## Report Types
+
+- Cheating
+- Toxic Behavior
+- Fake Account
+- Match Dispute
+- Organizer Abuse
+
+---
+
+## Workflow
+
+Report Submitted
+
+↓
+
+Admin Review
+
+↓
+
+Decision
+
+↓
+
+User Notification
+
+---
+
+## Status
+
+Pending
+
+Under Review
+
+Resolved
+
+Rejected
+
+---
+
+# Feature 19 — Sponsor Portal
+
+## Description
+
+Enable brands and organizations to sponsor tournaments.
+
+---
+
+## Features
+
+- Browse Tournaments
+- Sponsor Events
+- View Analytics
+- Contact Organizers
+- Campaign Dashboard
+
+---
+
+## Version
+
+2.0
+
+---
+
+# Feature 20 — Campus Gaming Clubs
+
+## Description
+
+Each college can create official gaming clubs.
+
+---
+
+## Features
+
+- Club Profile
+- Members
+- Events
+- Internal Tournaments
+- Announcements
+- Recruitment
+
+---
+
+# Feature 21 — AI Assistant
+
+## Description
+
+AI helps organizers automate repetitive tasks.
+
+---
+
+## Capabilities
+
+- Tournament Creation
+- Rule Suggestions
+- Match Scheduling
+- FAQ Support
+- Announcement Writing
+- Analytics Summary
+
